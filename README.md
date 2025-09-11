@@ -1,24 +1,22 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Jett Manalo
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Jett Manalo
 
-I'm a **frontend developer** specializing in building beautiful, user-centric web experiences with a strong focus on UI/UX and animation.
-
----
+### 🚀 What I'm Working On
 
 ☁️ &nbsp; Studying for the AWS Certified Cloud Practitioner (CLF-C02) exam. <br>
-🎓 &nbsp; Currently studying **Computer Science** at **Batangas State University**. <br>
+✨ &nbsp; Developing animated and interactive landing pages. <br>
 🔭 &nbsp; Beginning my thesis research on **using Graph Neural Networks to analyze developer collaboration patterns in Git repositories**. <br>
 👯 &nbsp; Open to collaborating on frontend projects, especially those using React and GSAP. <br>
 📫 &nbsp; Reach me via **jettmanalo.dev@gmail.com**.
 
 ---
 
-<h3>🛠️ My Tech Stack</h3>
+### 🛠️ My Tech Stack
 
 <h4>Frontend & Animation</h4>
 <p>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP">
+    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
