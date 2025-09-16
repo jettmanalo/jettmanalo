@@ -3,8 +3,6 @@
 ### 🚀 What I'm Working On
 
 ☁️ &nbsp; Studying for the AWS Certified Cloud Practitioner (CLF-C02) exam. <br>
-✨ &nbsp; Developing animated and interactive landing pages. <br>
-🔭 &nbsp; Beginning my thesis research on **using Graph Neural Networks to analyze developer collaboration patterns in Git repositories**. <br>
 👯 &nbsp; Open to collaborating on frontend projects, especially those using React and GSAP. <br>
 📫 &nbsp; Reach me via **jettmanalo.dev@gmail.com**.
 
@@ -23,6 +21,14 @@
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+<h4>Backend & Databases</h4>
+<p>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 <h4>Tools & Platforms</h4>
